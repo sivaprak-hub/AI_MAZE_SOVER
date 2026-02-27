@@ -1,6 +1,6 @@
 # AI Maze Solver: Search vs. MDP Analysis
 
-This project explores computational pathfinding and decision-making within "perfect" maze environments. Developed as part of the CS7IS2 Artificial Intelligence module at Trinity College Dublin, the system benchmarks five distinct algorithms across 50 randomly generated mazes.
+This project explores computational pathfinding and decision-making within "perfect" maze environments.
 
 ## Overview
 The goal is to analyze the performance trade-offs between classical **State-Space Search** and **Markov Decision Processes (MDP)**.
